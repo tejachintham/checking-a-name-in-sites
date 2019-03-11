@@ -1,2 +1,2 @@
 #python3
-Script to check if juliencayzac.me exists in the webpage source(web page is url in 31-dec.txt +/wp-login.php)
+Script to check if xxxxx exists in the webpage source(web page is url in 31-dec.txt +/wp-login.php)
